@@ -1,6 +1,6 @@
 """
 Title: Wuzzle (Python)
-Programmer: Mihika Sakharpe, twelve years old
+Programmer: Ian Asiedu, twenty years old
 Description: This program is the popular Wordle 
 game coded in the Python language. Users choose their
 language (English or Spanish) and enter five-letter
