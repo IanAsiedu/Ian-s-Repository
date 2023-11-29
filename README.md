@@ -1,1 +1,1 @@
-# Ian-s-Repository
+The code checks the correctness of the guessed letters and their placement in the word. If the guessed letter is correct but in the wrong position, it prints a message indicating that. The code also prompts the user to keep guessing while running in a loop. If the user runs out of guesses without guessing the word correctly, it prints a "sorry" message and reveals the correct word. The code also handles scenarios where the user is not ready or provides invalid input. It looks like a fun game!# Ian-s-Repository
